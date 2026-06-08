@@ -20,9 +20,13 @@ A robust, console-based personal finance management application written in C++17
 
 ## ⚙️ How to Build and Run
 
-This project includes a `makefile` to simplify the compilation and execution process. Open your terminal or command prompt in the root directory of the project and use the following commands:
+This project includes a `makefile` to automate the compilation and execution process. Follow these step-by-step instructions to run the application:
 
-### 1. Build and Launch
-To compile all source code files and automatically run the application, simply type:
+### Step 1: Open the Terminal
+* **If you are using Visual Studio Code (VS Code):** Go to the top menu bar, click on **Terminal** -> **New Terminal** (or use the keyboard shortcut `` Ctrl + ` ``).
+* **If you are using a standard command prompt/terminal:** Open your terminal app and navigate to the project directory using the `cd` command.
+
+### Step 2: Build and Launch
+In the terminal window you just opened, simply type the following command and press **Enter**:
 ```bash
 make
